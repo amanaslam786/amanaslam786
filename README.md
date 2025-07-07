@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Aslam
+# 👋 Aman Aslam
 
 🧑‍🔬 **Code Scientist** | CEO & Founder of [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | AI, Blockchain, SEO & Digital Innovator
