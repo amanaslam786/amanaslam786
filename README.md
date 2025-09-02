@@ -36,7 +36,7 @@ My journey is fueled by self-learning, innovation, and the blessings of Allah an
 - 🌎 [Website](https://emspakistan.com)
 - 📧 Email: [awaan201515@gmail.com](mailto:awaan201515@gmail.com) | [ceo@emspakistan.com](mailto:ceo@emspakistan.com)
 - 🧪 [ORCID](https://orcid.org/0009-0009-3872-1747)
-- 📚 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=A3MZedMAAAAJ)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=A3MZedMAAAAJ)
 
 ---
 
