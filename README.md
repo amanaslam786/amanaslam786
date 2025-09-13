@@ -37,6 +37,7 @@ My journey is fueled by self-learning, innovation, and the blessings of Allah an
 - 📧 Email: [awaan201515@gmail.com](mailto:awaan201515@gmail.com) | [ceo@emspakistan.com](mailto:ceo@emspakistan.com)
 - 🧪 [ORCID](https://orcid.org/0009-0009-3872-1747)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=A3MZedMAAAAJ&hl=en)
+- 🏅 [Indexed as Scientist](https://www.adscientificindex.com/scientist/aman-aslam/6348416)
 
 ---
 
