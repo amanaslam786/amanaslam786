@@ -8,8 +8,9 @@
 Since launching my tech career in 2007 as an IC programmer, I have continually broken new ground:
 
 - 🚀 Created Pakistan’s first affordable ATS system
-- 📊 Pioneered the **30-Day Instant Ranking SEO Framework**
+- 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
 - ☁️ Developed real-time AWS data sync technology
+- 🏅 Aman Aslam – **Indexed as Scientist** (World Scientist and University Rankings 2026)
 - 🔒 Built custom cybersecurity and digital growth solutions
 - 📈 Delivered **11,000+ successful projects**
 
