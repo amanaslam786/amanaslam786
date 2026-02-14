@@ -11,6 +11,7 @@ Since launching my tech career in 2007 as an IC programmer, I have continually b
 - 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
 - ☁️ Developed real-time AWS data sync technology
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
+- 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Built custom cybersecurity and digital growth solutions
 - 📈 Delivered **11,000+ successful projects**
 
