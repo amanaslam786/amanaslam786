@@ -1,7 +1,7 @@
 # **Aman Aslam**
 
 **Applied Scientist** (SEO & AI Systems) | **CAISR Certified** (AI Security & Risk) | **Google Scholar** – Verified Researcher | **Patent Holder** | CEO & Founder of [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
-💻 Cloud-based Multinational IT Company | AI, Blockchain, SEO & Digital Innovator
+💻 Cloud-based Multinational IT Company | AI, Cybersecurity & AI Governance, Blockchain, SEO & Digital Innovator
 
 ---
 
