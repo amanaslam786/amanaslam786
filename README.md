@@ -1,21 +1,21 @@
 # **Aman Aslam**
 
-**Applied Scientist** (SEO & AI Systems) | **CAISR Certified** (AI Security & Risk) | **Google Scholar** – Verified Researcher | **Patent Holder** | CEO & Founder of [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
-💻 Cloud-based Multinational IT Company | AI, Cybersecurity & AI Governance, Blockchain, SEO & Digital Innovator
+**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **CAISR Certified** (AI Security & Risk) | **Patent Holder** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+💻 Cloud-based Multinational IT Company | Building research-driven solutions in AI Security, Cybersecurity Governance, and ISO 27001–based Information Security Management Systems.
 
 ---
 
-Since launching my tech career in 2007 as an IC programmer, I have continually broken new ground:
+Since beginning my technology journey in 2007 as an IC programmer, I have worked at the intersection of applied science, artificial intelligence, cybersecurity, and AI governance:
 
-- 🚀 Created Pakistan’s first affordable ATS system
+- 🚀 Developed Pakistan’s first affordable Applicant Tracking System (ATS)
 - 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
-- ☁️ Developed real-time AWS data sync technology
+- ☁️ Engineered real-time AWS data synchronization solutions
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
 - 🏅 **CAISR Certified** (AI Security & Risk)
-- 🔒 Built custom cybersecurity and digital growth solutions
-- 📈 Delivered **11,000+ successful projects**
+- 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
+- 📈 Delivered **11,000+** successful technology and digital transformation projects
 
-My journey is fueled by self-learning, innovation, and the blessings of Allah and my parents’ prayers.
+My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
 
 ---
 
