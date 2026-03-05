@@ -1,6 +1,6 @@
 # **Aman Aslam**
 
-**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **CAISR Certified** (AI Security & Risk) | **Patent Holder** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**Applied Scientist** (AI Systems) | **Research Scholar** | **GRC Analyst** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Patent Holder** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building research-driven solutions in AI Security, Cybersecurity Governance, and ISO 27001–based Information Security Management Systems.
 
 ---
@@ -11,6 +11,7 @@ Since beginning my technology journey in 2007 as an IC programmer, I have worked
 - 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
 - ☁️ Engineered real-time AWS data synchronization solutions
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
+- 🏅 **GRC Analyst** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
 - 📈 Delivered **11,000+** successful technology and digital transformation projects
