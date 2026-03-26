@@ -7,13 +7,13 @@
 
 Since beginning my technology journey in 2007 as an IC programmer, I have worked at the intersection of applied science, artificial intelligence, cybersecurity, and AI governance:
 
-- 🚀 Developed Pakistan’s first affordable Applicant Tracking System (ATS)
-- 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
-- ☁️ Engineered real-time AWS data synchronization solutions
-- 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
 - 🏅 **GRC Analyst** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
+- 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
+- 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
+- ☁️ Engineered real-time AWS data synchronization solutions 
+- 🚀 Developed Pakistan’s first affordable Applicant Tracking System (ATS)
 - 📈 Delivered **11,000+** successful technology and digital transformation projects
 
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
