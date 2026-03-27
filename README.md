@@ -1,6 +1,6 @@
 # **Aman Aslam**
 
-**GRC Analyst** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Patent Holder** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**GRC Analyst** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Applied Scientist** (SEO & AI Systems) | **Research Scholar** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building research-driven solutions in AI Security, Cybersecurity Governance, and ISO 27001–based Information Security Management Systems.
 
 ---
@@ -13,7 +13,7 @@ I specialize in Governance, Risk & Compliance (GRC) with a focus on AI Security,
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
 - 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
 - ☁️ Engineered real-time AWS data synchronization solutions 
-- 🚀 Developed Pakistan’s first affordable Applicant Tracking System (ATS)
+- 🚀 Developed Pakistan’s first affordable Auto Transfer Switch (ATS)
 - 📈 Delivered **11,000+** successful technology and digital transformation projects
 
 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
