@@ -16,6 +16,8 @@ Since beginning my technology journey in 2007 as an IC programmer, I have worked
 - 🚀 Developed Pakistan’s first affordable Applicant Tracking System (ATS)
 - 📈 Delivered **11,000+** successful technology and digital transformation projects
 
+🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
+
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
 
 ---
@@ -26,11 +28,34 @@ My work is guided by continuous research, responsible AI practices, cybersecurit
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15734918.svg)](https://doi.org/10.5281/zenodo.15734918)  
   *A disruptive SEO methodology proving over 500% traffic growth in one month, without backlinks or paid ads — redefining two decades of SEO conventions.*
 
+  - 📑 **Comparative Analysis of ISO 27001 and NIST Cybersecurity Framework: A Practical Implementation Perspective for SMEs** *(March 2026)*  
+  [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.36184.76803-blue)](https://doi.org/10.13140/RG.2.2.36184.76803)  
+  *A practical SME-focused study comparing ISO 27001 and NIST CSF, proposing a cost-effective hybrid cybersecurity implementation model.*
+
+---
+
+## 📁 Featured Portfolio
+
+### 🔐 ISO 27001 GRC + AI Security Portfolio  
+🔗 https://github.com/amanaslam786/ISO27001-GRC-Portfolio  
+
+*A complete ISO/IEC 27001:2022 ISMS implementation portfolio demonstrating practical GRC, risk management, and AI security governance capabilities.*
+
+#### 🔍 Highlights:
+- Full ISO 27001:2022 aligned ISMS implementation  
+- Risk Assessment & Risk Treatment Plan  
+- Statement of Applicability (SoA)  
+- AI Security Policy (advanced domain expertise)  
+- Internal Audit & Management Review Reports  
+
+#### 🎯 Use Case:
+Designed to demonstrate **real-world GRC Analyst (AI + Security)** capabilities for employers, clients, and research applications.
+
 ---
 
 ## 🛠️ Skills
 
-`AI` `Blockchain` `SEO` `Web Development` `App Development` `Cybersecurity` `Digital Marketing`
+`AI Governance` `Cybersecurity Governance (GRC)` `ISO 27001 (ISMS)` `NIST Cybersecurity Framework (CSF)` `Risk Assessment & Management` `AI Security & Risk (CAISR)` `Compliance & Audit` `Information Security Management Systems` `Cloud Security (AWS)` `Data Protection & Privacy` `Security Policies & Controls` `Threat & Vulnerability Management` `SEO (Applied AI Systems)` `Digital Transformation`
 
 ---
 
