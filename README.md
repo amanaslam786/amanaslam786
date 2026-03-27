@@ -5,7 +5,7 @@
 
 ---
 
-Since beginning my technology journey in 2007 as an IC programmer, I have worked at the intersection of applied science, artificial intelligence, cybersecurity, and AI governance:
+I specialize in Governance, Risk & Compliance (GRC) with a focus on AI Security, ISO 27001, and cybersecurity frameworks, combining research-driven insights with practical implementation to address modern security challenges.
 
 - 🏅 **GRC Analyst** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
