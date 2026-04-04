@@ -1,20 +1,33 @@
 # **Aman Aslam**
 
-**GRC Analyst** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Applied Scientist** (SEO & AI Systems) | **Research Scholar** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**Information Security Lead** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Applied Scientist** (SEO & AI Systems) | **Research Scholar** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building research-driven solutions in AI Security, Cybersecurity Governance, and ISO 27001–based Information Security Management Systems.
 
 ---
 
-I specialize in Governance, Risk & Compliance (GRC) with a focus on AI Security, ISO 27001, and cybersecurity frameworks, combining research-driven insights with practical implementation to address modern security challenges.
+👤 **About Me**
 
-- 🏅 **GRC Analyst** (AI + Security)
+I specialize in **Information Security Leadership and Governance, Risk & Compliance (GRC)** with a strong focus on **ISO 27001 ISMS implementation, AI Security, and cybersecurity frameworks**.
+
+My work combines **research-driven methodologies with practical enterprise implementation**, enabling organizations to build secure, compliant, and scalable security programs aligned with modern threats and regulatory requirements.
+
+---
+
+🏆 **Core Identity**
+
+- 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
+
+🚀 **Key Achievements**
+
+- 📈 Led initiatives in AI, cybersecurity, and cloud-based systems.
+- 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS
+- 🚀 Created a complete ISO 27001 + AI Security GRC portfolio (practical implementation)
+- ☁️ Engineered real-time AWS data synchronization solutions  
 - 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
-- ☁️ Engineered real-time AWS data synchronization solutions 
-- 🚀 Developed Pakistan’s first affordable Auto Transfer Switch (ATS)
-- 📈 Delivered **11,000+** successful technology and digital transformation projects
+- 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 
 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
 
@@ -49,13 +62,17 @@ My work is guided by continuous research, responsible AI practices, cybersecurit
 - Internal Audit & Management Review Reports  
 
 #### 🎯 Use Case:
-Designed to demonstrate **real-world GRC Analyst (AI + Security)** capabilities for employers, clients, and research applications.
+Designed to demonstrate real-world capabilities for:
+- Information Security Lead roles
+- GRC Consultant positions
+- Cybersecurity & compliance leadership roles
+- Client consulting and advisory engagements 
 
 ---
 
 ## 🛠️ Skills
 
-`AI Governance` `Cybersecurity Governance (GRC)` `ISO 27001 (ISMS)` `NIST Cybersecurity Framework (CSF)` `Risk Assessment & Management` `AI Security & Risk (CAISR)` `Compliance & Audit` `Information Security Management Systems` `Cloud Security (AWS)` `Data Protection & Privacy` `Security Policies & Controls` `Threat & Vulnerability Management` `SEO (Applied AI Systems)` `Digital Transformation`
+`Information Security Governance` `Governance, Risk & Compliance (GRC)` `AI Governance` `Cybersecurity Governance (GRC)` `ISO 27001 (ISMS)` `NIST Cybersecurity Framework (CSF)` `Risk Assessment & Management` `AI Security & Risk (CAISR)` `Compliance & Audit` `Information Security Management Systems` `Cloud Security (AWS)` `Data Protection & Privacy` `Security Policies & Controls` `Threat & Vulnerability Management` `SEO (Applied AI Systems)` `Digital Transformation`
 
 ---
 
