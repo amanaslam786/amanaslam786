@@ -1,6 +1,6 @@
 # **Aman Aslam**
 
-**Information Security Lead** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Applied Scientist** (SEO & AI Systems) | **Research Scholar** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**Information Security Professional** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | **Applied Scientist** (SEO & AI Systems) | **Scholar** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building research-driven solutions in AI Security, Cybersecurity Governance, and ISO 27001–based Information Security Management Systems.
 
 ---
@@ -18,7 +18,7 @@ My work combines **research-driven methodologies with practical enterprise imple
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
-- 🏅 **Indexed as Scientist** (World Scientist and University Rankings)
+- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026)
 
 🚀 **Key Achievements**
 
