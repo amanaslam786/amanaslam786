@@ -25,12 +25,12 @@ My work combines **research-driven methodologies with practical enterprise imple
 - 📈 Led initiatives in AI, cybersecurity, and cloud-based systems.
 - 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS
 - 🚀 Created a complete ISO 27001 + AI Security GRC portfolio (practical implementation)
-- 🔐 Creator of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
 - ☁️ Engineered real-time AWS data synchronization solutions  
 - 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 
 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
+🔐 Creator of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
 
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
 
