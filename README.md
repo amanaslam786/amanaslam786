@@ -15,7 +15,7 @@ My work combines **research-driven methodologies with practical enterprise imple
 
 🏆 **Core Identity**
 
-- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026)
+- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026), with Index ID: 6348416
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
