@@ -47,7 +47,9 @@ My work is guided by continuous research, responsible AI practices, cybersecurit
   *A practical SME-focused study comparing ISO 27001 and NIST CSF, proposing a cost-effective hybrid cybersecurity implementation model.*
 
 - 📑 **AFIS-Lite — Fingerprint Matching & Verification Toolkit: A Preprocessing-Enhanced Bridge Between NIST NBIS and Full-Scale AFIS Systems** *(August 2026)*
+
   [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.14158.63044-blue)](https://doi.org/10.13140/RG.2.2.14158.63044)
+
   *A fingerprint preprocessing, verification, identification, and forensic case-documentation toolkit positioned between NIST's bare NBIS toolkit and a full production AFIS — combining 1:1/1:N matching, chain-of-custody tracking, and NFIQ2 quality scoring in one system.*
 
 ---
