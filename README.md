@@ -39,11 +39,15 @@ My work is guided by continuous research, responsible AI practices, cybersecurit
 ## 📄 Research & Publications
 
 - 📑 **30-Day Instant Ranking SEO Framework — Preprint**  
+
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15734918.svg)](https://doi.org/10.5281/zenodo.15734918)  
+
   *A disruptive SEO methodology proving over 500% traffic growth in one month, without backlinks or paid ads — redefining two decades of SEO conventions.*
 
 - 📑 **Comparative Analysis of ISO 27001 and NIST Cybersecurity Framework: A Practical Implementation Perspective for SMEs** *(March 2026)*  
+
   [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.36184.76803-blue)](https://doi.org/10.13140/RG.2.2.36184.76803)  
+
   *A practical SME-focused study comparing ISO 27001 and NIST CSF, proposing a cost-effective hybrid cybersecurity implementation model.*
 
 - 📑 **AFIS-Lite — Fingerprint Matching & Verification Toolkit: A Preprocessing-Enhanced Bridge Between NIST NBIS and Full-Scale AFIS Systems** *(August 2026)*
