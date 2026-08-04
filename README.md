@@ -82,7 +82,7 @@ Designed to demonstrate real-world capabilities for:
 
 ## 🛠️ Skills
 
-`Information Security Governance` `Governance, Risk & Compliance (GRC)` `AI Governance` `Cybersecurity Governance (GRC)` `ISO 27001 (ISMS)` `NIST Cybersecurity Framework (CSF)` `Risk Assessment & Management` `AI Security & Risk (CAISR)` `Compliance & Audit` `Information Security Management Systems` `Cloud Security (AWS)` `Data Protection & Privacy` `Security Policies & Controls` `Threat & Vulnerability Management` `SEO (Applied AI Systems)` `Digital Transformation`
+`Information Security Governance` `Governance, Risk & Compliance (GRC)` `AI Governance` `Cybersecurity Governance (GRC)` `ISO 27001 (ISMS)` `NIST Cybersecurity Framework (CSF)` `Risk Assessment & Management` `AI Security & Risk (CAISR)` `Compliance & Audit` `Information Security Management Systems` `Cloud Security (AWS)` `Data Protection & Privacy` `Security Policies & Controls` `Threat & Vulnerability Management` `SEO (Applied AI Systems)` `Digital Transformation` `Digital Forensics` `Biometric Systems & Fingerprint Recognition`
 
 ---
 
