@@ -30,6 +30,7 @@ My work combines **research-driven methodologies with practical enterprise imple
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 
 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
+
 🔐 Creator of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
 
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
