@@ -7,7 +7,7 @@
 
 👤 **About Me**
 
-I specialize in **Information Security Leadership and Governance, Risk & Compliance (GRC)** with a strong focus on **ISO 27001 ISMS implementation, AI Security, and cybersecurity frameworks**.
+I am an **Applied Scientist** and **Research Scholar**. I specialize in **Information Security Leadership and Governance, Risk & Compliance (GRC)** with a strong focus on **ISO 27001 ISMS implementation, AI Security, and cybersecurity frameworks**.
 
 My work combines **research-driven methodologies with practical enterprise implementation**, enabling organizations to build secure, compliant, and scalable security programs aligned with modern threats and regulatory requirements.
 
