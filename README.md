@@ -40,7 +40,7 @@ My work is guided by continuous research, responsible AI practices, cybersecurit
 
 - 📑 **30-Day Instant Ranking SEO Framework — Preprint**  
 
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15734918.svg)](https://doi.org/10.5281/zenodo.15734918)  
+  [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15734918-blue)](https://doi.org/10.5281/zenodo.15734918) 
 
   *A disruptive SEO methodology proving over 500% traffic growth in one month, without backlinks or paid ads — redefining two decades of SEO conventions.*
 
