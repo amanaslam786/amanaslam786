@@ -15,18 +15,19 @@ My work combines **research-driven methodologies with practical enterprise imple
 
 🏆 **Core Identity**
 
+- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026)
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
-- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026)
 
 🚀 **Key Achievements**
 
 - 📈 Led initiatives in AI, cybersecurity, and cloud-based systems.
 - 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS
 - 🚀 Created a complete ISO 27001 + AI Security GRC portfolio (practical implementation)
+- 🔐 Creator of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
 - ☁️ Engineered real-time AWS data synchronization solutions  
-- 📊 Patent Holder and Creater of the **30-Day Instant Ranking SEO Framework**
+- 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 
 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
@@ -44,6 +45,10 @@ My work is guided by continuous research, responsible AI practices, cybersecurit
 - 📑 **Comparative Analysis of ISO 27001 and NIST Cybersecurity Framework: A Practical Implementation Perspective for SMEs** *(March 2026)*  
   [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.36184.76803-blue)](https://doi.org/10.13140/RG.2.2.36184.76803)  
   *A practical SME-focused study comparing ISO 27001 and NIST CSF, proposing a cost-effective hybrid cybersecurity implementation model.*
+
+- 📑 **AFIS-Lite — Fingerprint Matching & Verification Toolkit: A Preprocessing-Enhanced Bridge Between NIST NBIS and Full-Scale AFIS Systems** *(August 2026)*
+  [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.14158.63044-blue)](https://doi.org/10.13140/RG.2.2.14158.63044)
+  *A fingerprint preprocessing, verification, identification, and forensic case-documentation toolkit positioned between NIST's bare NBIS toolkit and a full production AFIS — combining 1:1/1:N matching, chain-of-custody tracking, and NFIQ2 quality scoring in one system.*
 
 ---
 
