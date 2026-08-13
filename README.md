@@ -1,6 +1,6 @@
 # **Aman Aslam**
 
-**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Information Security Professional** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Information Security Professional** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | Developer of **AFIS-Lite** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building research-driven solutions in AI Security, Cybersecurity Governance, and ISO 27001–based Information Security Management Systems.
 
 ---
@@ -29,7 +29,7 @@ My work combines **research-driven methodologies with practical enterprise imple
 - 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 - 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
-- 🔐 Creator of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
+- 🔐 Developer of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
 
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
 
