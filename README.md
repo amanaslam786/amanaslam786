@@ -29,8 +29,7 @@ My work combines **research-driven methodologies with practical enterprise imple
 - 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 - 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
-- 🔐 Developer of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit bridging NIST NBIS and full-scale AFIS systems
-
+- 🔐 Developer of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit with multi-user RBAC and high-speed indexed search, bridging NIST NBIS and full-scale AFIS systems
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
 
 ---
