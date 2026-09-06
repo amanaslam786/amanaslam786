@@ -93,7 +93,7 @@ Designed to demonstrate real-world capabilities for:
 - 💼 [LinkedIn](https://www.linkedin.com/in/amanaslam2015/)
 - 🧪 [ORCID](https://orcid.org/0009-0009-3872-1747)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=A3MZedMAAAAJ&hl=en)
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/YOUR-PROFILE-SLUG)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Aman-Aslam-4)
 - 📦 [Zenodo](https://doi.org/10.5281/zenodo.15734918)
 - 🌐 [Web of Science](https://www.webofscience.com/wos/author/record/NOF-6552-2025?state=%7B%7D)
 - 🏅 [Indexed as Scientist](https://www.adscientificindex.com/scientist/aman-aslam/6348416)
