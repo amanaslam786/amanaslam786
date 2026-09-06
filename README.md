@@ -15,21 +15,21 @@ His work combines applied research with practical, real-world delivery — build
 
 🏆 **Core Identity**
 
-- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026), with Index ID: 6348416
+- 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026), with **Index ID: 6348416**
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
 
 🚀 **Key Achievements**
 
+- 🔐 Developer of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit with multi-user RBAC and high-speed indexed search, bridging NIST NBIS and full-scale AFIS systems
+- 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
+- ☁️ Engineered real-time AWS data synchronization solutions
+- 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 - 📈 Led initiatives in AI, cybersecurity, and cloud-based systems.
 - 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS
 - 🚀 Created a complete ISO 27001 + AI Security GRC portfolio (practical implementation)
-- ☁️ Engineered real-time AWS data synchronization solutions  
-- 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
-- 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
-- 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation)
-- 🔐 Developer of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit with multi-user RBAC and high-speed indexed search, bridging NIST NBIS and full-scale AFIS systems
+- 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation) 
 
 My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
 
