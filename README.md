@@ -31,7 +31,7 @@ His work combines applied research with practical, real-world delivery — build
 - 🚀 Created a complete ISO 27001 + AI Security GRC portfolio (practical implementation)
 - 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation) 
 
-My work is guided by continuous research, responsible AI practices, cybersecurity governance, and the blessings of Allah and my parents’ prayers.
+My work is guided by continuous research, responsible AI practices, and a commitment to building secure, well-governed software and SEO solutions — all made possible by the blessings of Allah and my parents' prayers.
 
 ---
 
