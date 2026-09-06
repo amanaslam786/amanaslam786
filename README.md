@@ -16,8 +16,8 @@ His work combines applied research with practical, real-world delivery — build
 🏆 **Core Identity**
 
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026), with **Index ID: 6348416**
-- 💻 Full-Stack Software Developer & AI Systems Builder — production-ready software including AFIS-Lite
-- 📈 Creator of the "30-Days Instant Ranking SEO Framework"
+- 💻 **Full-Stack Software Developer** & **AI Systems Builder** — production-ready software including AFIS-Lite
+- 📈 Creator of the **"30-Days Instant Ranking SEO Framework"**
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
