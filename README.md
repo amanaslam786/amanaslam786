@@ -7,9 +7,9 @@
 
 👤 **About Me**
 
-I am an **Applied Scientist**, **Research Scholar** and **Full-Stack Software Developer**. I specialize in **Information Security Leadership and Governance, Risk & Compliance (GRC)** with a strong focus on **ISO 27001 ISMS implementation, AI Security, and cybersecurity frameworks**.
+**Aman Aslam** is an **Applied Scientist (SEO & AI Systems)**, **Research Scholar**, **Full-Stack Software Developer**, and **Information Security Professional** who designs and builds secure, **production-ready software** — including **AFIS-Lite** — for organizations that need more than off-the-shelf products, develops **generative AI** models and integrates them into clients' existing workflows, and at **EMSPakistan IT (Private) Limited**, leads research and development across **AI Systems**, **SEO**, **AI Development**, **AI Security**, and **GRC**.
 
-My work combines **research-driven methodologies with practical enterprise implementation**, enabling organizations to build secure, compliant, and scalable security programs aligned with modern threats and regulatory requirements.
+His work combines applied research with practical, real-world delivery — building AI-integrated software, driving measurable SEO growth through his own "30-Days Instant Ranking SEO Framework," and implementing enterprise-grade Information Security, GRC, and AI Security programs — bridging academic research and industry application across every domain he works in.
 
 ---
 
