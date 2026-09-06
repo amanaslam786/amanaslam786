@@ -16,6 +16,8 @@ His work combines applied research with practical, real-world delivery — build
 🏆 **Core Identity**
 
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026), with **Index ID: 6348416**
+- 💻 Full-Stack Software Developer & AI Systems Builder — production-ready software including AFIS-Lite
+- 📈 Creator of the "30-Days Instant Ranking SEO Framework"
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
@@ -28,7 +30,6 @@ His work combines applied research with practical, real-world delivery — build
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 - 📈 Led initiatives in AI, cybersecurity, and cloud-based systems.
 - 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS
-- 🚀 Created a complete ISO 27001 + AI Security GRC portfolio (practical implementation)
 - 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation) 
 
 My work is guided by continuous research, responsible AI practices, and a commitment to building secure, well-governed software and SEO solutions — all made possible by the blessings of Allah and my parents' prayers.
