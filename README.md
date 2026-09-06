@@ -1,6 +1,6 @@
 # **Aman Aslam**
 
-**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Information Security Professional** | **Full-Stack Software Developer** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | Developer of **AFIS-Lite** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Full-Stack Software Developer** | **Information Security Professional** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | Developer of **AFIS-Lite** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building AI-integrated software, driving SEO growth through our own Instant Ranking Framework, and delivering ISO 27001–based Information Security, GRC, and AI Security solutions.
 
 ---
