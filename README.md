@@ -7,7 +7,7 @@
 
 👤 **About Aman Aslam**
 
-Aman Aslam is an Applied Scientist (SEO & AI Systems), Research Scholar, Full-Stack Software Developer, and Information Security Professional who designs and builds secure, production-ready software — including AFIS-Lite — for organizations that need more than off-the-shelf products, develops generative AI models and integrates them into clients' existing workflows, and at EMSPakistan IT (Private) Limited, leads research and development across AI Systems, SEO, AI Development, AI Security, and GRC.
+Aman Aslam is an Applied Scientist (SEO & AI Systems), Research Scholar, Full-Stack Software Developer, and Information Security Professional who designs and builds secure, production-ready software—including AFIS-Lite—for organizations that need more than off-the-shelf products, develops generative AI models and integrates them into clients' existing workflows, and at EMSPakistan IT (Private) Limited, leads research and development across AI Systems, SEO, AI Development, AI Security, and GRC.
 
 His work combines applied research with practical, real-world delivery — building AI-integrated software, driving measurable SEO growth through his own "30-Days Instant Ranking SEO Framework," and implementing enterprise-grade Information Security, GRC, and AI Security programs — bridging academic research and industry application across every domain he works in.
 
