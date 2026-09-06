@@ -88,8 +88,8 @@ Designed to demonstrate real-world capabilities for:
 
 ## 🌐 Connect With Me
 
-- 🌎 [Website](https://emspakistan.com)
-- 📧 Email: [awaan201515@gmail.com](mailto:awaan201515@gmail.com) | [ceo@emspakistan.com](mailto:ceo@emspakistan.com)
+- 🌎 [Website](https://amanaslam.com)
+- 📧 Email: [Mail](mailto:mail@amanaslam.com) | [CEO](mailto:ceo@emspakistan.com)
 - 🧪 [ORCID](https://orcid.org/0009-0009-3872-1747)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=A3MZedMAAAAJ&hl=en)
 - 🏅 [Indexed as Scientist](https://www.adscientificindex.com/scientist/aman-aslam/6348416)
