@@ -1,13 +1,13 @@
 # **Aman Aslam**
 
-**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Full-Stack Software Developer** | **Information Security Professional** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | Developer of **AFIS-Lite** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
+**Applied Scientist** (SEO & AI Systems) | **Research Scholar** | **Information Security Professional** | **Full-Stack Software Developer** | **GRC Consultant** (AI + Security) | **CAISR Certified** (AI Security & Risk) | Developer of **AFIS-Lite** | Founder, [EMSPakistan IT (PRIVATE) LIMITED](https://emspakistan.com)  
 💻 Cloud-based Multinational IT Company | Building AI-integrated software, driving SEO growth through our own Instant Ranking Framework, and delivering ISO 27001–based Information Security, GRC, and AI Security solutions.
 
 ---
 
 👤 **About Aman Aslam**
 
-Aman Aslam is an Applied Scientist (SEO & AI Systems), Research Scholar, Full-Stack Software Developer, and Information Security Professional who designs and builds secure, production-ready software—including AFIS-Lite—for organizations that need more than off-the-shelf products, develops generative AI models and integrates them into clients' existing workflows, and at EMSPakistan IT (Private) Limited, leads research and development across AI Systems, SEO, AI Development, AI Security, and GRC.
+Aman Aslam is an Applied Scientist (SEO & AI Systems), Research Scholar, Information Security Professional and Full-Stack Software Developer who designs and builds secure, production-ready software—including AFIS-Lite—for organizations that need more than off-the-shelf products, develops generative AI models and integrates them into clients' existing workflows, and at EMSPakistan IT (Private) Limited, leads research and development across AI Systems, SEO, AI Development, AI Security, and GRC.
 
 His work combines applied research with practical, real-world delivery — building AI-integrated software, driving measurable SEO growth through his own "30-Days Instant Ranking SEO Framework," and implementing enterprise-grade Information Security, GRC, and AI Security programs — bridging academic research and industry application across every domain he works in.
 
@@ -16,21 +16,21 @@ His work combines applied research with practical, real-world delivery — build
 🏆 **Core Identity**
 
 - 🏅 **Indexed as Scientist** (World Scientist and University Rankings 2026), with **Index ID: 6348416**
-- 💻 **Full-Stack Software Developer** & **AI Systems Builder** — production-ready software including AFIS-Lite
 - 📈 Creator of the **"30-Days Instant Ranking SEO Framework"**
 - 🏅 **Information Security Lead/ GRC Consultant** (AI + Security)
 - 🏅 **CAISR Certified** (AI Security & Risk)
 - 🔒 Research & implementation focus: ISMS, ISO 27001 frameworks, and AI governance models
+- 💻 **Full-Stack Software Developer** & **AI Systems Builder** — production-ready software including AFIS-Lite
 
 🚀 **Key Achievements**
 
+- 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation) 
 - 🔐 Developer of **AFIS-Lite** — a fingerprint matching, verification, and forensic case-documentation toolkit with multi-user RBAC and high-speed indexed search, bridging NIST NBIS and full-scale AFIS systems
 - 📊 Patent Holder and Creator of the **30-Day Instant Ranking SEO Framework**
 - ☁️ Engineered real-time AWS data synchronization solutions
 - 🚀 Developed **Pakistan’s first affordable Auto Transfer Switch (ATS)**
 - 📈 Led initiatives in AI, cybersecurity, and cloud-based systems.
-- 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS
-- 🔐 Creator of a complete ISO 27001:2022 ISMS + AI Security GRC Portfolio (practical implementation) 
+- 🚀 Designed and implemented enterprise-grade ISO 27001:2022 ISMS 
 
 My work is guided by continuous research, responsible AI practices, and a commitment to building secure, well-governed software and SEO solutions — all made possible by the blessings of Allah and my parents' prayers.
 
